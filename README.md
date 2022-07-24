@@ -20,7 +20,7 @@ Development-Goal¶
 
 🙌 Understand Events in HTML
 
-#Technologies used
+# Technologies used
 
 1. Used react-box provided by the truffle suite to build front-end for the project using react-js
 2. Used Ganache and Metamask for test networks and transfer of "weis" between the accounts for the supply chain of items.
