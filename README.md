@@ -27,12 +27,14 @@ Development-Goal¶
 4. Langauge used: solidity
 
 # Working
-<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/diagram%20of%20project.jpg" width="500" height="350" />\
-<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20180907.png" width="500" height="300" />
+<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/diagram%20of%20project.jpg" width="400" height="350" />
+<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20180907.png" width="450" height="250" />
 <img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20120304.png" width="500" height="300" />
 <img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20120441.png" width="500" height="300" />
-<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20180514.png" width="450" height="500" />
+<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20120526.png" width="500" height="300" />
+<img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20180514.png" width="350" height="400" />
 <img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20180807.png" width="500" height="300" />
+
 
 
 
