@@ -36,6 +36,10 @@ Development-Goal¶
 <img  alt="GIF" src="https://github.com/abhishekgoyal17/Supply-Chain-Management-BlockChain-Project/blob/master/Screenshot%202022-06-30%20180807.png" width="500" height="300" />
 
 
+## Problems Faced
+1. Connections with the test networks:-Need to use ganache for getting new account along with its ether and add the account to the Metmask and connect it with the project.
+2. Gas price issue:- figure out the gas price of the transactions and set it accordingly in MetaMask.
+
 
 
 
